@@ -1,1 +1,81 @@
+/*
+    colours picked
+    dark blue : #0081A7;
+    teal blue : #00AFB9;
+    pale yellow : #FDFCDC;
+    pale orange : #FED9B7;
+    coral : #F07167;
 
+    fonts picked
+    barlow condensed - a good plain text font
+    font-family: 'Barlow Condensed', sans-serif;
+    bebas neue - chunky blocky text for titles
+    font-family: 'Bebas Neue', sans-serif;
+    dhurjati - blockier text alternative for headings
+    font-family: 'Dhurjati', sans-serif;
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500&family=Bebas+Neue&family=Dhurjati&display=swap');
+
+body {
+    background-color: #FDFCDC;
+}
+
+header{
+    background-color: #0081A7;
+    color: #F07167;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+}
+
+footer{
+    background-color: #0081A7;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 300;
+}
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: #0081A7;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 400;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:12px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #00AFB9;
+}
+
+h1, h2 {
+    color: #F07167;
+    font-family: 'Dhurjati', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 300;
+}
+
+.versioninfo {
+    margin-left:100px; 
+    margin-right:100px; 
+    margin-bottom: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 300;
+}
