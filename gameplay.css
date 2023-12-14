@@ -32,7 +32,7 @@ header{
 footer{
     background-color: #0081A7;
     font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 ul {
@@ -61,7 +61,7 @@ li a:hover {
     background-color: #00AFB9;
 }
 
-h1, h2 {
+h1, h2, h3 {
     color: #F07167;
     font-family: 'Dhurjati', sans-serif;
     text-align: center;
@@ -69,7 +69,7 @@ h1, h2 {
 
 p {
     font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .versioninfo {
@@ -77,12 +77,12 @@ p {
     margin-right:100px; 
     margin-bottom: 20px;
     font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .row {
     font-family: 'Barlow Condensed', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     margin-left:100px; 
     margin-right:100px;
     margin-top:50px;
