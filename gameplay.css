@@ -1,1 +1,16 @@
+/*
+    colours picked
+    dark blue : #0081A7;
+    teal blue : #00AFB9;
+    pale yellow : #FDFCDC;
+    pale orange : #FED9B7;
+    coral : #F07167;
+
+    fonts picked
+    barlow condensed - a good plain text font
+    bebas neue - chunky blocky text for titles
+    dhurjati - blockier text alternative for headings
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500&family=Bebas+Neue&family=Dhurjati&display=swap');
 
