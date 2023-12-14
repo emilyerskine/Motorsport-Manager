@@ -26,10 +26,13 @@ header{
     background-color: #0081A7;
     color: #F07167;
     font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
 }
 
 footer{
     background-color: #0081A7;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 300;
 }
 
 ul {
@@ -55,6 +58,24 @@ li a {
 }
 
 li a:hover {
-    background-color: #364652;
+    background-color: #00AFB9;
 }
 
+h1, h3 {
+    color: #F07167;
+    font-family: 'Dhurjati', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 300;
+}
+
+.versioninfo {
+    margin-left:100px; 
+    margin-right:100px; 
+    margin-bottom: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 300;
+}
