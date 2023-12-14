@@ -32,7 +32,29 @@ footer{
     background-color: #0081A7;
 }
 
-nav {
-    background-color:  #0081A7;
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: #0081A7;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 400;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:12px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #364652;
 }
 
