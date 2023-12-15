@@ -92,3 +92,10 @@ p {
     align-items: center; 
     margin-bottom:20px; 
 }
+
+.wikitext {
+    background-color: #FED9B7;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
