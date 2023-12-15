@@ -96,5 +96,6 @@ p {
 .wikitext {
     background-color: #FED9B7;
     border-radius: 25px;
-    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
