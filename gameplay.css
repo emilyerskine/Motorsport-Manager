@@ -20,6 +20,8 @@
 
 body {
     background-color: #FDFCDC;
+    margin-left:100px; 
+    margin-right:100px; 
 }
 
 header{
@@ -73,8 +75,6 @@ p {
 }
 
 .versioninfo {
-    margin-left:100px; 
-    margin-right:100px; 
     margin-bottom: 20px;
     font-family: 'Barlow Condensed', sans-serif;
     font-weight: 400;
@@ -83,8 +83,12 @@ p {
 .row {
     font-family: 'Barlow Condensed', sans-serif;
     font-weight: 400;
-    margin-left:100px; 
-    margin-right:100px;
     margin-top:25px;
     text-align: center;
+}
+
+.textchunk {
+    display: flex; 
+    align-items: center; 
+    margin-bottom:20px; 
 }
