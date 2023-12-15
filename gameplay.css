@@ -67,11 +67,13 @@ h1, h2, h3 {
     color: #F07167;
     font-family: 'Dhurjati', sans-serif;
     text-align: center;
+    padding-top: 15px;
 }
 
 p {
     font-family: 'Barlow Condensed', sans-serif;
     font-weight: 400;
+    padding-bottom: 15px;
 }
 
 .versioninfo {
@@ -98,6 +100,4 @@ p {
     border-radius: 25px;
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 15px;
-    padding-top: 15px;
 }
