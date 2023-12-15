@@ -88,3 +88,11 @@ p {
     margin-top:25px;
     text-align: center;
 }
+
+.textchunk {
+    display: flex; 
+    align-items: center; 
+    margin-left:100px; 
+    margin-right:100px; 
+    margin-bottom:20px; 
+}
